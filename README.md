@@ -1,7 +1,5 @@
 # MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure
 
-[TOC]
-
 ## New: FiGS: Fine-Grained Stochastic Architecture Search
 FiGS, is a probabilistic approach to channel regularization that we introduced
 in [Fine-Grained Stochastic Architecture Search](https://arxiv.org/pdf/2006.09581.pdf).
