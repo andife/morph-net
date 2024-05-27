@@ -15,8 +15,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/google-research/morph-net",
     packages=setuptools.find_packages(),
-    classifiers=[
-        "Programming Language :: Python :: 2",
+    classifiers=[        
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
